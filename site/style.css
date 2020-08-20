@@ -1,0 +1,22 @@
+header{
+    background: #2e3e50;
+    color: #fff;
+}
+
+.main{
+    background: #A4A4A4;
+}
+
+aside{
+    background: #E58E8F;
+}
+
+.cor{
+    background: blue;
+    color: cornsilk;
+}
+
+footer{
+    background: darkslategray;
+    color: floralwhite;
+}
